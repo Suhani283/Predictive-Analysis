@@ -1,1 +1,2 @@
 # Predictive-Analysis
+This project involves predicting the concentration levels of various harmful gases, including CO2 and other greenhouse gases, using a Random Forest algorithm. The Random Forest algorithm, a robust and versatile machine learning method, is employed here to analyze historical data and make accurate predictions about future gas concentrations. This can aid in environmental monitoring, climate change research, and pollution control strategies.
